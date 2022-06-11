@@ -52,7 +52,7 @@ const style = StyleSheet.create({
   lightingOn:{
     resizeMode: 'contain',
     alignSelf:'center',
-    width: 350,
-    height: 350,
+    width: 349,
+    height: 349,
   },
 })
